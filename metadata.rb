@@ -1,8 +1,8 @@
-name             'windirstat'
+name             'heidisql'
 maintainer       'Thorsten Klein'
 maintainer_email 'cookbooks@perlwizard.de'
 license          "Apache 2.0" 
-description      'Installs/Configures windirstat'
+description      'Installs/Configures HeidiSQL'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version          '0.1.0'
 supports         "windows"
