@@ -40,6 +40,11 @@ Changes/Roadmap
 
 * initial release
 
+## 1.0.0:
+
+* fixed HeidiSQL package name to avoid unnecessary installations
+
+
 License and Author
 ==================
 
