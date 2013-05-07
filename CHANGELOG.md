@@ -1,10 +1,10 @@
-# CHANGELOG for windirstat
+# CHANGELOG for heidisql
 
-This file is used to list changes made in each version of windirstat.
+This file is used to list changes made in each version of heidisql
 
 ## 0.1.0:
 
-* Initial release of windirstat
+* Initial release of heidisql
 
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.

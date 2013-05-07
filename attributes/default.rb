@@ -20,6 +20,6 @@
 
 default[:heidisql][:url]          = "http://heidisql.googlecode.com/files/HeidiSQL_7.0_Setup.exe"
 default[:heidisql][:checksum]     = "7a21a81eda6fa6761ff7c60de19386620d845f2d69d25c800be6fe8472a9b7ac"
-default[:heidisql][:package_name] = "HeidiSQL 7.0"
+default[:heidisql][:package_name] = "HeidiSQL 7.0.0.4053"
 
 default[:heidisql][:home]    = "#{ENV['SYSTEMDRIVE']}\\HeidiSQL"
